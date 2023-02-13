@@ -1,0 +1,166 @@
+Module 1 : [Overview of I.T industry]
+Module 2 : [Fundamentals of Programing]
+Module 3 : [OOP Concept]C++
+Module 4 : [HTML & CSS]
+Module 5 : [Database]
+
+What is Computer?
+Computer is an electronic device that makes human life easier and faster.
+
+Software - Software is a thing which we cannot touch.
+Hardware - Hardware is a thing which we can touch physically.
+
+Application of computer :
+School,Defense,Banking,Healthcare,etc.
+
+What is program?
+Program is a set of instructions.
+
+What is programming?
+To create a program.
+eg - Using keyboard and Mouse.
+
+Types of Programing Language :
+Procedure Oriented Programing(POP) eg-C
+Object Oriented Programing(OOP) eg-C++
+Logical Programing eg-Prolog language
+Functional Programing eg-Python language
+
+WWW-World Wide Web
+- It is a collection of webpages and websites store in web server.
+- Connected to local computers through the internet.
+- The websites contain text pages,digital images,audios,videos,etc.
+- User can accss the content of these sites from any part of the world over the Internet using their devices such as
+computers,laptops,cell phones etc.
+- The www, along with internet, enables the retrieved and display of text and media to your device.
+
+WWW - How Internet Works?
+- A server is where websites are stored, and it works a lot like your computer's hard drive.
+- Once a request arrives, the server retrieves the website and sends the correct data back to your computer.
+
+Client & Servers
+
+1. Client Program
+- Running on and host
+- Request Services
+- E.g. Web Browser
+2. Server Program
+- Running on end host
+- Provide Services
+- E.g. Webserver
+
+Client - Server Communication
+1. Client "sometimes on"
+- Initiates a request to the server when interested
+- E.g. Web Browser on your laptop or cell phone
+- Doesn't communicate directly with other clients
+- Needs to know the server's address
+2. Server is "always on"
+- Server requests from many client hosts
+- E.g. Web server for the www.example.com web site
+- Doesn't initiate contract with the clients
+- Needs a fixed, well-known address
+ 
+
+Types of Internet connection:-
+
+1) Digital Subscriber line-- The Internet that comes from phone cable to our device is known as digital subscriber line(DSL).
+
+2)Cable Internet-- The Internet that comes from cable is known as cable Internet.
+
+3) Fibre optic-- The cable that contains the internet and also the light is known as fibre optic cable.
+
+4) Satellite Internet-- The internet comes from satellite to our devices.
+
+5) Wireless-- The internet connection which does not require wire or cable is known as wireless internet.
+
+6) Broadband Over Power Lines(BPL):- The internet that is comes from broadband device is known as BPL.
+
+Protocols:- It is a set of rules for communication of data
+
+1)HTTP- Hyper Text Transfer Protocol
+   HTTPs- Hyper Text Transfer  Protocol secure
+
+2)FTP-- File transfer Protocol-- To transfer the files
+
+3) Email Protocols -- SMTP --Simple Mail Transfer Protocol
+
+4) TCP/IP- Transmission Control Protocols/Internet Protocols--To transfer the data between the application  
+
+What is Application Security?
+- Application security refers to security precautions used at the application level to prevent the theft or hijacking of data
+or code within the application.
+- It includes security concerns made during application development and design, as well as methods and procedures
+for protecting applications once they've been deployed.
+
+Application Software-Eg M.s office,paint etc.
+System Software- Eg Notepad,Calcuclator etc
+Driver software-audio driver,video driver
+Middleware software - eg Database software
+Programming software EG-Turbo c,Eclipse,Sublime etc
+
+SDLC:-
+
+Software Development Life Cycle
+
+There are 6 phases of SDLC:-
+
+1) Requirement gathering
+2) Analysis
+3)Designing
+4)Implementation or coding
+5)Testing
+6)Maintenance
+
+Software Engineering--
+
+It is a branch of engineering that helps to develop or build a software.
+
+Layers in software architecture:-
+
+1) Presentation layer:- It handles the interaction between UI and user
+
+2) Application layer :- It handles the main program of our system. It includes the code definition and programs.
+
+3) Business layer:- It handles the business of a software or application.
+
+4) Persistance layer:- It acts as a protective layer. It is used to access database layer
+
+5) Database layer :- It is the layer where system stores all the data.
+
+Open closed principle - software entities should be open for extension, but closed for modification.
+
+Environments in industry
+
+There are different Types of envionments in Industry.
+1. The analysis and design environment
+2. The development environment
+3. The common build environment
+4.The testing environment
+5.The production environment
+
+Programming:- Programming is used to create programs and to build a application or software
+
+It will solve complex problems
+
+ Types of programming :-
+
+1) Procedural Oriented Programming(POP)- C
+2) Functional Programming- Python
+3)Object Oriented Programming- Java,C++
+4)Scripting Programming --Javascript
+5) Logical Programming-- Prologit
+
+Types of Programming languages:-
+
+1)Low level programming language -- 0 and 1
+
+---> Machine Language
+---> Assembly language--0 and 1 or High level
+
+2)High level programming language
+
+3) Middle level Programming language
+
+HTML: Hyper Text Markup Language.
+CSS: Cascading Style Sheet
